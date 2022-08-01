@@ -58,3 +58,31 @@ p  {
   }
 
 }
+
+#light {
+  width: 100%;
+  height: calc(500px / 6);
+  background-color: #3E7CB1;
+}
+#dark {
+  width: 100%;
+  height: calc(500px / 6);
+  background-color: #9E788F;
+}
+#center {
+  width: calc(100% / 3);
+  height: 500px;
+  background-color: blue;
+  font-family: monospace;
+}
+a:link {
+       color: #FFFFFF;
+}
+
+a:visited {
+      color: #7f7f7f;
+}
+
+a:hover{
+ color: white;
+}
